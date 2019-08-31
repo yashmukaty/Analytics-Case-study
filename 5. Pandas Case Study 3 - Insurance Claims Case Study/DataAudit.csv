@@ -1,0 +1,17 @@
+,mean,std_dev,missing,min,max
+CUST_ID,50607688.35509396,28550999.39940614,0,263204.0,99961993.0
+claim_id,48640566.59643917,29237332.129223503,0,26832.0,99775483.0
+customer_id,50607688.35509396,28550999.39940614,0,263204.0,99961993.0
+total_policy_claims,1.589515331355094,1.146949834683082,0,1.0,8.0
+gender,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+DateOfBirth,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+State,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+Contact,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+Segment,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+incident_cause,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+claim_date,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+claim_area,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+police_report,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+claim_type,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+claim_amount,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
+fraudulent,Not Applicable,Not Applicable,0,Not Applicable,Not Applicable
